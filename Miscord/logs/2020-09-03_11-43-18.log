@@ -1,0 +1,32 @@
+  INFO    11:43:18 FileConfig ›  Loading config from C:\Users\Renzo\AppData\Roaming\Miscord\config.json
+  START   11:43:18  ›  Launching Miscord v5.0.4
+  START   11:43:18 login ›  Logging in...
+  INFO    11:43:18 login › logLevel 'info'
+  START   11:43:18 discord › login ›  Logging in to Discord...
+ SUCCESS  11:43:24 discord › login ›  Logged in to Discord
+  START   11:43:24 messenger › login ›  Logging in to Facebook...
+ SUCCESS  11:43:27 messenger › login ›  Logged in to Facebook
+ SUCCESS  11:43:27 login ›  Logged in
+  INFO    11:43:36 discord › listener ›  Got a Discord message
+  INFO    11:43:36 handleCommand ›  Command received!
+  INFO    11:43:37 discord › listener ›  Got a Discord message
+  INFO    11:43:44 discord › listener ›  Got a Discord message
+  INFO    11:43:44 handleCommand ›  Command received!
+  INFO    11:43:45 discord › listener ›  Got a Discord message
+  INFO    11:43:49 discord › listener ›  Got a Discord message
+  INFO    11:43:49 handleCommand ›  Command received!
+  INFO    11:43:50 discord › listener ›  Got a Discord message
+  INFO    11:45:21 discord › listener ›  Got a Discord message
+  INFO    11:45:21 handleCommand ›  Command received!
+  INFO    11:45:22 discord › listener ›  Got a Discord message
+  INFO    11:45:35 discord › listener ›  Got a Discord message
+  INFO    11:45:35 handleCommand ›  Command received!
+  INFO    11:45:37 discord › listener ›  Got a Discord message
+  INFO    11:45:52 discord › listener ›  Got a Discord message
+  INFO    11:45:52 handleCommand ›  Command received!
+  INFO    11:45:53 discord › listener ›  Got a Discord message
+  INFO    11:45:57 discord › listener ›  Got a Discord message
+  INFO    11:46:14 discord › listener ›  Got a Discord message
+  INFO    11:46:18 discord › listener ›  Got a Discord message
+  INFO    11:48:58 messenger › listener ›  Got a Messenger message
+  INFO    11:49:01 discord › listener ›  Got a Discord message

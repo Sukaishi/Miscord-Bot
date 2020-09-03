@@ -1,0 +1,13 @@
+__comment: >-
+  This is your connections.yml file. More info at
+  https://github.com/miscord/miscord/wiki/Connections.yml
+chat-room2:
+  - type: messenger
+    id: '2482370691882806'
+  - type: discord
+    id: '750923381838184468'
+chat-room1:
+  - type: messenger
+    id: '1073549222666977'
+  - type: discord
+    id: '750911595822972937'
